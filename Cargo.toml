@@ -1,4 +1,5 @@
 [workspace]
+resolver = "1"
 
 members = [
     "hello_cargo",
@@ -6,5 +7,5 @@ members = [
     "guessing_game",
     "data_types",
     "functions",
-    "control_flow",
+    "control_flow", "ownership",
 ]
