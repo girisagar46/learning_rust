@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+    "hello_cargo",
+    "variables_and_mutability",
+    "guessing_game",
+    "data_types",
+    "functions",
+    "control_flow",
+]
